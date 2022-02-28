@@ -1,0 +1,87 @@
+/* font family */
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+/* font family finished */
+
+
+body{
+    background-color: #7f8fa6;
+}
+.nav-link{
+    padding-left: 2%;
+}
+#dropdownMenuButton1{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+
+}
+.btn-2{
+    margin-right:15px ;
+    box-shadow: 4px 6px 7px ;
+    border: 1px solid rgb(243, 241, 241);
+    
+}
+#random{
+    font-family: 'Supermercado One', cursive;
+    font-size: 2.5rem;
+}
+.btn-3 {
+    background-color:rgb(255, 255, 255);
+    color: black;
+    font-weight: 500;
+    height: 55px;
+    border: 1px solid rgb(243, 241, 241);
+    
+}
+/* .carousel-item img{
+    size: 500px;
+} */
+.main{
+    margin-left: 50px;
+}
+.btn-group{
+    width: 300px;
+    text-align: center;
+    height: 50px;
+    font-family: 'Quintessential', cursive;
+    background-color: rgb(33, 44, 44);
+    border-radius: 5px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    
+    /* padding-left: 50px; */
+    /* box-shadow: 2px 4px 5px; */
+    
+}
+.fa-bars{
+    padding-right: 40px;
+}
+.catagories{
+    margin-left: 50px;
+}
+.nav ul li{
+    list-style: none;
+}
+.color{
+    background-color: black;
+    height: 300px;
+}
+.carousel-item   {
+    background-color: rgb(129, 109, 109);
+    color: black;
+    
+}
+.carousel-caption{
+    color: black;
+}
+/* .carousel-inner{
+    width: 50%;
+} */
+.carousel slide{
+    width: 50%;
+}
+
+
